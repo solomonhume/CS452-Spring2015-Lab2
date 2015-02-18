@@ -1,0 +1,6 @@
+Jiaju Huang
+Jiajhua@clarkson.edu
+Feb. 17, 2015
+
+The browser window listens to a keyboard event, when it detects key event, it checks if the key code is what it supposed to respond.
+It moves the graph according to the keys. Also added a slider to control movement speed.
